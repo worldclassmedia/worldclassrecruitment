@@ -1,0 +1,276 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#job_salary {
+    float: left;
+    font-size: 17px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 5px;
+    clear: both;
+    min-height: 0px;
+    font-family: carme;
+    color: rgb(122, 32, 130);
+    margin-right: 0%;
+}
+
+#apply_jobtitle {
+    float: left;
+    font-size: 26px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: carme;
+    color: rgb(29, 29, 29);
+    margin-right: 0%;
+}
+
+#apply-block {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 65px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 0px;
+    margin-right: auto;
+}
+
+#apply-container {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 1000px;
+    margin-right: auto;
+}
+
+#apply_topholder {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 0px;
+}
+
+#apply-job-info {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: auto;
+    margin-right: 0%;
+}
+
+#apply_icons {
+    float: right;
+    font-size: 23px;
+    width: 130px;
+    height: 50px;
+    text-align: center;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    min-height: 41px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(122, 32, 130);
+    border-top-left-radius: 6px;
+    border-top-right-radius: 6px;
+    border-bottom-right-radius: 6px;
+    border-bottom-left-radius: 6px;
+    font-family: carme;
+    padding-top: 11px;
+    margin-right: 0%;
+    border: 2px solid rgb(122, 32, 130);
+}
+
+#apply_icons:hover {
+    border: 2px solid rgb(122, 32, 130);
+    padding-top: 11px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(29, 29, 29);
+}
+
+#job_description_holder {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 40px;
+    clear: both;
+    width: 49%;
+    min-height: 0px;
+}
+
+#person_specification_holder {
+    float: left;
+    height: auto;
+    margin-left: 2%;
+    margin-top: 40px;
+    clear: none;
+    width: 49%;
+    min-height: 0px;
+    margin-right: 0%;
+}
+
+#apply_job_description {
+    float: left;
+    font-size: 26px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: carme;
+}
+
+#apply_person_specification {
+    float: left;
+    font-size: 26px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+    font-family: carme;
+    margin-right: 0%;
+}
+
+#apply_job_description1 {
+    float: left;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 10px;
+    clear: both;
+    min-height: 0px;
+    font-family: carme;
+    margin-right: 0%;
+    color: rgb(47, 47, 47);
+}
+
+#apply_person_specification1 {
+    float: left;
+    font-size: 14px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 10px;
+    clear: both;
+    min-height: 0px;
+    font-family: carme;
+    margin-right: 0%;
+    color: rgb(47, 47, 47);
+}
+
+#screening_question {
+    float: left;
+    height: auto;
+    margin: 0px 0% 12px;
+    clear: none;
+    width: 100%;
+    min-height: 50px;
+    min-width: 0px;
+    background-color: rgb(244, 244, 244);
+    padding-bottom: 10px;
+}
+
+#screening_question_text {
+    float: left;
+    font-size: 16px;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 2%;
+    margin-top: 18px;
+    clear: none;
+    min-height: 0px;
+    font-family: carme;
+}
+
+#screening_questions_holder {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 50px;
+    clear: both;
+    width: 100%;
+    margin-right: 0px;
+}
+
+#screening_question_answer {
+    float: right;
+    height: 40px;
+    margin-left: 0px;
+    margin-top: 0px;
+    clear: none;
+    width: 150px;
+    margin-right: 0%;
+}
+
+@media only screen and (max-width: 1040px) {
+    #apply-container {
+        width: 96.153846%;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    #apply-container {
+        height: auto;
+    }
+
+    #job_description_holder {
+        margin-top: 50px;
+        margin-left: 0%;
+        clear: both;
+        width: 100%;
+    }
+
+    #person_specification_holder {
+        margin-top: 20px;
+        margin-left: 0%;
+        clear: both;
+        margin-right: 0px;
+        float: left;
+        width: 100%;
+    }
+
+    #apply-block {
+        margin-top: 30px;
+    }
+}
+

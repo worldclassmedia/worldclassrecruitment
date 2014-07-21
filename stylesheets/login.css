@@ -1,0 +1,189 @@
+#username{
+	height:100%;
+	width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#password{
+	height:100%;
+	width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#admin_content {
+    float: left;
+    height: 502px;
+    margin-left: 1.962237%;
+    margin-top: 1px;
+    clear: none;
+    width: 96.087586%;
+}
+
+#adminbox {
+    float: none;
+    height: 312px;
+    margin-left: auto;
+    margin-top: 45px;
+    clear: none;
+    width: 322.171875px;
+    background-color:rgba(245,245,245,1.00);
+    border-top-left-radius: 21px;
+    border-top-right-radius: 21px;
+    border-bottom-right-radius: 21px;
+    border-bottom-left-radius: 21px;
+    margin-right: auto;
+    border: 1px solid rgb(161, 161, 161);
+}
+
+#username_box {
+    float: none;
+    height: 30px;
+    margin-left: auto;
+    margin-top: 66px;
+    clear: none;
+    width: 90.758198%;
+    background-color: rgb(255, 255, 255);
+    margin-right: auto;
+}
+
+#password_box {
+    float: none;
+    height: 30px;
+    margin-left: auto;
+    margin-top: 35.5px;
+    clear: none;
+    width: 90.756099%;
+    margin-right: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+#login_password {
+    float: left;
+    font-size: 1em;
+    width: 93.734375px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 4.578302%;
+    margin-top: 18px;
+    clear: none;
+    min-height: 0px;
+}
+
+#login_username {
+    float: left;
+    font-size: 1em;
+    width: 93.734375px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 4.491003%;
+    margin-top: 48px;
+    clear: none;
+    min-height: 0px;
+}
+
+#admin_login {
+    float: none;
+    font-size: 2em;
+    width: 180px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: auto;
+    margin-top: 9px;
+    clear: none;
+    min-height: 0px;
+    margin-right: auto;
+}
+
+#diamondstrip_holder {
+    float: none;
+    height: 31px;
+    margin-left: auto;
+    margin-top: 1px;
+    clear: none;
+    width: 88.447548%;
+    margin-right: auto;
+    border-top-width: 1px;
+    border-top-color: rgb(143, 143, 143);
+    border-top-style: solid;
+}
+
+#diamond_strip {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 6px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+}
+
+#login_button {
+    float: none;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 23.5px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: auto;
+	opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+#login_button:hover {
+      opacity: 0.7;
+}
+
+
+@media only screen and (max-width: 774px) {
+
+   #adminbox {
+        margin-top: 65px;
+        clear: none;
+   }
+
+}
+
+@media only screen and (max-width: 576px) {
+
+   #adminbox {
+        margin-top: 85px;
+        clear: none;
+   }
+
+}
+
+@media only screen and (max-width: 442px) {
+
+}
+
+@media only screen and (max-width: 349px) {
+
+	#adminbox {
+        width: 88%;
+   }
+
+}
+
+@media only screen and (max-width: 299px) {
+
+   #adminbox {
+        width: 97.386653%;
+   }
+
+}
+

@@ -1,0 +1,1089 @@
+/*** textfields ***/
+
+#form_job_title{
+	height:90%;
+	width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#form_salary{
+	height:90%;
+	width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#form_location{
+	height:90%;
+	width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#form_description{
+	height:90%;
+	width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#form_person_spec{
+	height:90%;
+	width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+#add_question{
+	height:95%;
+	width:100%;
+	font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+
+/************/
+
+#add_job_form {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 86px;
+    clear: none;
+    width: 96.085863%;
+    margin-right: auto;
+}
+
+#add_new_job_header {
+    float: left;
+    font-size: 2em;
+    width: 381.296875px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 0.05558943%;
+    margin-top: 7px;
+    clear: none;
+    min-height: 38px;
+}
+
+#job_title_holder {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: none;
+    width: 94.650879%;
+    margin-right: auto;
+}
+
+#job_title_textarea {
+    float: left;
+    height: 29px;
+    margin-left: 0.4592298%;
+    margin-top: 13px;
+    clear: none;
+    width: 69.501797%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(29, 29, 29);
+}
+
+#job_title {
+    float: left;
+    font-size: 0.8em;
+    width: 73.00000191000001px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 2.742938%;
+    margin-top: 19px;
+    clear: none;
+    min-height: 18px;
+}
+
+#salary_holder {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 1px;
+    clear: none;
+    width: 94.631348%;
+    margin-right: auto;
+}
+
+#salary {
+    float: left;
+    font-size: 0.8em;
+    width: 73px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 2.742938%;
+    margin-top: 19px;
+    clear: none;
+    min-height: 18px;
+}
+
+#salary_textarea {
+    float: left;
+    height: 29px;
+    margin-left: 0.52431748%;
+    margin-top: 13px;
+    clear: none;
+    width: 69.501797%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(29, 29, 29);
+}
+
+#location_holder {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 1px;
+    clear: none;
+    width: 94.494629%;
+    margin-right: auto;
+}
+
+#location {
+    float: left;
+    font-size: 0.8em;
+    width: 73.00000191000001px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 2.482883%;
+    margin-top: 18px;
+    clear: none;
+    min-height: 18px;
+}
+
+#location_textarea {
+    float: left;
+    height: 29px;
+    margin-left: 0.71308616%;
+    margin-top: 13px;
+    clear: none;
+    width: 69.500065%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(29, 29, 29);
+}
+
+#description_holder {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 1px;
+    clear: none;
+    width: 94.51416%;
+    margin-right: auto;
+}
+
+#description {
+    float: left;
+    font-size: 0.8em;
+    width: 73px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 2.683853%;
+    margin-top: 19px;
+    clear: none;
+    min-height: 18px;
+}
+
+#description_textarea {
+    float: left;
+    height: 147px;
+    margin-left: 0.51403921%;
+    margin-top: 13px;
+    clear: none;
+    width: 69.498618%;
+    background-color: rgb(255, 255, 255);
+    border: 1px solid rgb(29, 29, 29);
+}
+
+#person_spec_holder {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 1px;
+    clear: none;
+    width: 94.592285%;
+    margin-right: auto;
+}
+
+#person_spec {
+    float: left;
+    font-size: 0.7em;
+    width: 73px;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 2.742938%;
+    margin-top: 19px;
+    clear: none;
+    min-height: 18px;
+}
+
+#person_spec_textarea {
+    float: left;
+    height: 147px;
+    margin-left: 0.4592298%;
+    margin-top: 13px;
+    clear: none;
+    width: 69.499186%;
+    border: 1px solid rgb(29, 29, 29);
+    background-color: rgb(255, 255, 255);
+}
+
+#screening_questions_content {
+    float: none;
+    height: auto;
+    margin: 35px auto 20px;
+    clear: none;
+    width: 99.98207%;
+    border-top-width: 1px;
+    border-top-color: rgb(79, 79, 79);
+    border-top-style: solid;
+    padding-top: 20px;
+}
+
+#screening_questions {
+    float: left;
+    font-size: 1.4em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 3.434054%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 0px;
+}
+
+#screening_questions_holder {
+    float: left;
+    height: auto;
+    margin-left: 0%;
+    margin-top: 18px;
+    clear: both;
+    width: 100%;
+}
+
+#job_form_holder {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 12px;
+    clear: none;
+    width: 73.437444%;
+    margin-right: auto;
+}
+
+#screening_questions1 {
+    float: left;
+    font-size: 1.2em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    word-wrap: break-word;
+    margin-left: 3.787322%;
+    margin-top: 45px;
+    clear: both;
+    min-height: 0px;
+}
+
+#add_question_holder {
+    float: none;
+    height: auto;
+    margin-left: auto;
+    margin-top: 0px;
+    clear: both;
+    width: 92.425221%;
+    margin-right: auto;
+}
+
+#add_question_textarea {
+    float: left;
+    height: 29px;
+    margin-left: 0.10283275%;
+    margin-top: 11px;
+    clear: none;
+    width: 85.739232%;
+    border: 1px solid rgb(29, 29, 29);
+}
+
+#preffered_answer {
+    float: left;
+    height: 29px;
+    margin-left: 0.87892899%;
+    margin-top: 11px;
+    clear: none;
+    width: 13.162337%;
+}
+
+select {
+	width:100px;
+	height:29px;
+}
+
+#screening_question_duplicate {
+    float: left;
+    height: 40px;
+    margin-left: 3.434054%;
+    margin-top: 0px;
+    clear: none;
+    width: 92.778625%;
+    min-height: 30px;
+    border: 1px solid rgb(29, 29, 29);
+    margin-bottom: 5px;
+	padding:10px;
+}
+
+#return_icon {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: 0px;
+    margin-top: 1px;
+    clear: none;
+    color: rgb(0, 0, 0);
+    margin-right: 0%;
+	opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+#return_icon:hover {
+      opacity: 0.5;
+}
+
+#addjob_header_holder {
+    float: left;
+    height: auto;a
+    margin-top: 0px;
+    clear: none;
+    width: 96.072081%;
+}
+
+#admin_submit {
+    float: right;
+    width: auto;
+    max-width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-top: 20px;
+	margin-right:15px;
+    clear: none;
+    color: rgb(0, 0, 0);
+	opacity: 1;
+   transition: opacity .25s ease-in-out;
+   -moz-transition: opacity .25s ease-in-out;
+   -webkit-transition: opacity .25s ease-in-out;
+}
+
+#admin_submit:hover {
+      opacity: 0.5;
+}
+
+@media only screen and (max-width: 1328px) {
+
+   #job_title_textarea {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+   }
+
+   #salary_textarea {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+   }
+
+   #location_textarea {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+   }
+
+   #description_textarea {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+   }
+
+   #person_spec_textarea {
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+        clear: none;
+   }
+}
+
+@media only screen and (max-width: 1080px) {
+
+   #person_spec_textarea {
+        margin-left: 0.54056824%;
+        margin-right: 0px;
+        float: left;
+        margin-top: 13px;
+        clear: none;
+   }
+
+   #description_textarea {
+        margin-left: 0.58972847%;
+        margin-right: 0px;
+        float: left;
+        margin-top: 13px;
+        clear: none;
+   }
+
+   #location_textarea {
+        margin-left: 0.78475624%;
+        margin-right: 0px;
+        float: left;
+        margin-top: 13px;
+        clear: none;
+   }
+
+   #salary_textarea {
+        margin-left: 0.54290763%;
+        margin-right: 0px;
+        float: left;
+        margin-top: 13px;
+        clear: none;
+   }
+
+   #job_title_textarea {
+        margin-left: 0.54535679%;
+        margin-right: 0px;
+        float: left;
+        margin-top: 13px;
+        clear: none;
+   }
+}
+
+@media only screen and (max-width: 886px) {
+
+}
+
+@media only screen and (max-width: 774px) {
+
+   #add_new_job_header {
+        margin-top: 7px;
+        margin-left: 1.962747%;
+        clear: none;
+        width: 381.296875px;
+   }
+
+   #add_job_form {
+        margin-top: 10px;
+        margin-left: 1.97136%;
+        clear: both;
+        width: 96.086548%;
+        height: auto;
+   }
+}
+
+@media only screen and (max-width: 576px) {
+
+   #add_new_job_header {
+        width: 78.005205%;
+        margin-left: 1.935729%;
+        float: left;
+        clear: none;
+        height: auto;
+        margin-top: 14px;
+        margin-right: 0px;
+        font-size: 1.8em;
+        min-height: 33px;
+   }
+
+   #add_job_form {
+        height: auto;
+        margin-top: 10.09375px;
+        margin-left: 2.031013%;
+        clear: both;
+        width: 96.086859%;
+   }
+
+   #job_title_holder {
+        width: 93.0975%;
+   }
+
+   #salary_holder {
+        width: 93.0975%;
+   }
+
+   #location_holder {
+        width: 93.0975%;
+   }
+
+   #description_holder {
+        width: 93.0975%;
+   }
+
+   #person_spec_holder {
+        width: 93.0975%;
+   }
+
+   #screening_questions_content {
+        width: 100%;
+        height: auto;
+   }
+
+   #job_form_holder {
+        margin-top: 12px;
+        margin-left: auto;
+        clear: none;
+        width: 86.718316%;
+        margin-right: auto;
+   }
+
+   #addjob_header_holder {
+        margin-top: 15px;
+        margin-left: 1.955166%;
+        clear: none;
+   }
+
+   #preffered_answer {
+        margin-top: 11px;
+        margin-left: 1.129247%;
+        clear: none;
+        width: 17.640919%;
+        height: 29px;
+   }
+
+   #add_question_textarea {
+        width: 81.005251%;
+        height: 29px;
+   }
+}
+
+@media only screen and (max-width: 442px) {
+
+   #job_form_holder {
+        margin-top: 12px;
+        margin-left: auto;
+        clear: none;
+        width: 100%;
+        margin-right: auto;
+   }
+
+   #screening_questions_content {
+        width: 100%;
+        height: auto;
+   }
+
+   #add_new_job_header {
+        width: 78.588576%;
+        margin-top: 10px;
+        margin-left: 2.221545%;
+        clear: none;
+        height: auto;
+        font-size: 1.6em;
+   }
+
+   #add_question_holder {
+        height: 111px;
+        margin-left: auto;
+        margin-right: auto;
+   }
+
+   #screening_questions_holder {
+        width: 100%;
+   }
+
+   #preffered_answer {
+        margin-top: 10px;
+        margin-left: 0.09893643%;
+        clear: both;
+        width: 41.207024%;
+        height: 29px;
+   }
+
+   #add_question_textarea {
+        width: 100%;
+        height: 29px;
+   }
+
+   #add_job_form {
+        width: 96.086543%;
+        margin-top: 75px;
+        margin-left: 2.024455%;
+        clear: none;
+   }
+
+   #contact_form_holder {
+        width: 0%;
+   }
+
+   #return_icon {
+        margin-right: 2.194871%;
+        margin-top: 0px;
+        clear: none;
+   }
+
+   #addjob_header_holder {
+        margin-top: 20px;
+        margin-left: 1.958559%;
+        clear: none;
+   }
+
+   #admin_submit {
+        margin-top: 0px;
+        clear: none;
+   }
+}
+
+@media only screen and (max-width: 349px) {
+
+   #preffered_answer {
+        margin-top: 10px;
+        margin-left: 0.10441683%;
+        clear: both;
+        width: 40.988827%;
+   }
+
+   #add_question_textarea {
+        width: 100%;
+        height: 29px;
+   }
+
+   #add_question_holder {
+        height: 88px;
+        margin-left: auto;
+        margin-right: auto;
+   }
+
+   #screening_questions_holder {
+        width: 100%;
+        margin-top: 16px;
+        margin-left: 0%;
+        clear: both;
+   }
+
+   #salary_holder {
+        margin-top: 5px;
+        clear: none;
+        width: 93.094962%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+   }
+
+   #location_holder {
+        margin-top: 5px;
+        clear: none;
+        width: 93.094962%;
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+   }
+
+   #description_holder {
+        margin-top: 5px;
+        clear: none;
+        width: 93.094962%;
+   }
+
+   #person_spec_holder {
+        margin-top: 5px;
+        clear: none;
+        width: 93.094962%;
+   }
+
+   #job_title_holder {
+        height: auto;
+        margin-left: auto;
+        margin-right: auto;
+        width: 93.094962%;
+   }
+
+   #job_title_textarea {
+        margin-top: 28px;
+        margin-left: auto;
+        clear: none;
+        width: 100%;
+        height: 29px;
+        margin-right: auto;
+        float: none;
+   }
+
+   #job_title {
+        width: 73px;
+        margin-top: 5px;
+        margin-left: 0%;
+        clear: none;
+   }
+
+   #salary {
+        margin-top: 5px;
+        margin-left: 0.03628259%;
+        clear: none;
+        width: 73px;
+   }
+
+   #salary_textarea {
+        margin-top: 28px;
+        margin-left: auto;
+        clear: none;
+        width: 100%;
+        height: 29px;
+        margin-right: auto;
+        float: none;
+   }
+
+   #location {
+        margin-top: 5px;
+        margin-left: 0.12439745%;
+        clear: none;
+        width: 73px;
+   }
+
+   #location_textarea {
+        margin-top: 28px;
+        margin-left: auto;
+        clear: none;
+        width: 100%;
+        height: 29px;
+        margin-right: auto;
+        float: none;
+   }
+
+   #description_textarea {
+        margin-top: 5px;
+        margin-left: -0.20732908%;
+        clear: both;
+        height: 123px;
+        width: 100%;
+   }
+
+   #description {
+        width: 85.703125px;
+        margin-top: 5px;
+        margin-left: 0.1917794%;
+        clear: none;
+        height: auto;
+   }
+
+   #person_spec {
+        margin-top: 5px;
+        margin-left: 0.12439745%;
+        clear: none;
+        font-size: 0.8em;
+        width: 145.90625px;
+        height: auto;
+   }
+
+   #person_spec_textarea {
+        margin-top: 28px;
+        margin-left: auto;
+        clear: none;
+        width: 100%;
+        height: 123px;
+        float: none;
+        margin-right: auto;
+   }
+
+   #screening_questions_content {
+        width: 100%;
+        height: auto;
+   }
+
+   #screening_questions {
+        margin-top: 2px;
+        margin-left: 3.430805%;
+        clear: none;
+   }
+
+   #add_new_job_header {
+        font-size: 1.3em;
+        height: auto;
+        width: 76.684363%;
+        margin-top: 12px;
+        margin-left: 2.215251%;
+        clear: none;
+   }
+
+   #return_icon {
+        margin-right: 2.19112%;
+        margin-top: 1px;
+        clear: none;
+   }
+
+   #add_job_form {
+        margin-top: 16.09375px;
+        margin-left: 2.016877%;
+        clear: right;
+   }
+
+   #job_form_holder {
+        width: 100%;
+   }
+}
+
+@media only screen and (max-width: 299px) {
+
+   #add_question_holder {
+        height: 97px;
+        margin-left: auto;
+        margin-right: auto;
+   }
+
+   #screening_questions_holder {
+        width: 100%;
+   }
+
+   #preffered_answer {
+        margin-top: 10px;
+        margin-left: 0.48144311%;
+        clear: both;
+        width: 47.979767%;
+        height: 29px;
+   }
+
+   #add_question_textarea {
+        width: 100%;
+        height: 29px;
+   }
+
+   #job_title_textarea {
+        width: 100%;
+        margin-top: 23px;
+        margin-left: 0.45377541%;
+        clear: none;
+   }
+
+   #job_title {
+        width: 73px;
+        margin-top: 5px;
+        margin-left: 0%;
+        clear: none;
+   }
+
+   #salary_textarea {
+        width: 100%;
+        margin-top: 4px;
+        margin-left: 0.52032914%;
+        clear: both;
+   }
+
+   #location_textarea {
+        width: 100%;
+        margin-top: 4px;
+        margin-left: 0.70788964%;
+        clear: both;
+   }
+
+   #description_textarea {
+        width: 100%;
+        margin-top: 4px;
+        margin-left: 0.50822846%;
+        clear: both;
+   }
+
+   #person_spec_textarea {
+        width: 100%;
+        margin-top: 27px;
+        margin-left: -0.26621491%;
+        clear: none;
+        height: 147px;
+   }
+
+   #location {
+        margin-top: 5px;
+        margin-left: -0.24806389%;
+        clear: none;
+   }
+
+   #screening_question_duplicate {
+        min-height: 30px;
+        height: auto;
+   }
+
+   #person_spec {
+        height: auto;
+        width: 125.421875px;
+        font-size: 0.8em;
+        margin-top: 5px;
+        margin-left: 0%;
+        clear: none;
+   }
+
+   #description {
+        margin-top: 5px;
+        margin-left: -0.05445305%;
+        clear: none;
+   }
+
+   #salary {
+        margin-top: 5px;
+        margin-left: 0%;
+        clear: none;
+   }
+
+   #add_new_job_header {
+        height: auto;
+        width: 70.727351%;
+        margin-top: 7px;
+        margin-left: 2.213835%;
+        clear: none;
+   }
+
+   #return_icon {
+        margin-right: 1.070302%;
+        margin-top: 2px;
+        clear: none;
+   }
+
+   #add_job_form {
+        width: 96.076415%;
+        margin-top: 18.09375px;
+        margin-left: 2.013205%;
+        clear: right;
+   }
+
+}
+
+
+.prefferedanswer_list {
+  display: inline-block;
+  position: relative;
+  top:10px;
+  margin-left:5px;
+  overflow: hidden;
+  height: auto;
+  width: 80px;
+  background: #f2f2f2;
+  border: 1px solid;
+  border-color: white #f7f7f7 #f5f5f5;
+  border-radius: 3px;
+  background-image: -webkit-linear-gradient(top, transparent, rgba(0, 0, 0, 0.06));
+  background-image: -moz-linear-gradient(top, transparent, rgba(0, 0, 0, 0.06));
+  background-image: -o-linear-gradient(top, transparent, rgba(0, 0, 0, 0.06));
+  background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.06));
+  -webkit-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+  box-shadow: 0 1px 1px rgba(0, 0, 0, 0.08);
+}
+
+.prefferedanswer_list:before, .prefferedanswer_list:after {
+  content: '';
+  position: absolute;
+  z-index: 2;
+  top: 9px;
+  right: 10px;
+  width: 0;
+  height: 0;
+  border: 4px dashed;
+  border-color: #888 transparent;
+  pointer-events: none;
+}
+.prefferedanswer_list:before {
+  border-bottom-style: solid;
+  border-top: none;
+}
+.prefferedanswer_list:after {
+  margin-top: 7px;
+  border-top-style: solid;
+  border-bottom: none;
+}
+
+.prefferedanswer_select {
+  position: relative;
+  width: 130%;
+  margin: 0;
+  padding: 6px 8px 6px 10px;
+  height: 28px;
+  line-height: 14px;
+  font-size: 12px;
+  color: #62717a;
+  /* Fallback for IE 8 */
+  background: #f2f2f2;
+  /* "transparent" doesn't work with Opera */
+  background: rgba(0, 0, 0, 0) !important;
+  border: 0;
+  border-radius: 0;
+  -webkit-appearance: none;
+}
+.prefferedanswer_select:focus {
+  z-index: 3;
+  width: 100%;
+  color: #394349;
+  outline: 2px solid #49aff2;
+  outline: 2px solid -webkit-focus-ring-color;
+  outline-offset: -2px;
+}
+.prefferedanswer_select > option {
+  margin: 3px;
+  padding: 6px 8px;
+  text-shadow: none;
+  background: #f2f2f2;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+/* Fix for IE 8 putting the arrows behind the select element. */
+.lt-ie9 .prefferedanswer_list {
+  z-index: 1;
+}
+.lt-ie9 .prefferedanswer_select {
+  z-index: -1;
+}
+.lt-ie9 .prefferedanswer_select:focus {
+  z-index: 3;
+}
+
+/* Dirty fix for Firefox adding padding where it shouldn't. */
+@-moz-document url-prefix() {
+  .dropdown-select {
+    padding-left: 6px;
+  }
+}
+
+.prefferedanswer_list {
+  background: #444;
+  border-color: #111 #0a0a0a black;
+  background-image: -webkit-linear-gradient(top, transparent, rgba(0, 0, 0, 0.4));
+  background-image: -moz-linear-gradient(top, transparent, rgba(0, 0, 0, 0.4));
+  background-image: -o-linear-gradient(top, transparent, rgba(0, 0, 0, 0.4));
+  background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.4));
+  -webkit-box-shadow: inset 0 1px rgba(255, 255, 255, 0.1), 0 1px 1px rgba(0, 0, 0, 0.2);
+  box-shadow: inset 0 1px rgba(255, 255, 255, 0.1), 0 1px 1px rgba(0, 0, 0, 0.2);
+}
+.prefferedanswer_list:before {
+  border-bottom-color: #aaa;
+}
+.prefferedanswer_list:after {
+  border-top-color: #aaa;
+}
+.prefferedanswer_list .prefferedanswer_select {
+  color: #aaa;
+  text-shadow: 0 1px black;
+  /* Fallback for IE 8 */
+  background: #444;
+}
+.prefferedanswer_list .prefferedanswer_select:focus {
+  color: #ccc;
+}
+.prefferedanswer_list .prefferedanswer_select > option {
+  background: #444;
+  text-shadow: 0 1px rgba(0, 0, 0, 0.4);
+}

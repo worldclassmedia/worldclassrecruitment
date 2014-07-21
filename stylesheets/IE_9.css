@@ -1,0 +1,59 @@
+#primaryContainer{
+	text-align:center;
+	min-width:960px;
+	max-width:960px;
+}
+
+#content {
+	min-width:815px;
+	width:815px;
+	max-width:815px;
+	}
+
+#phone_number{
+	left:0px;
+	}
+	
+#search_now{
+	font-size:20px;
+	}
+	
+#search_icon{
+	width:50px;
+	margin-top:20px;
+	}
+	
+#featured_browse_jobs, #featured_about_us, #featured_contact_us {
+	font-size:15px;
+	}
+	
+#menu_text_1,#menu_text_2,#menu_text_3{
+	width:145px;
+	}
+	
+#showing_results_for{
+	float:left;
+	width:330px;
+	text-align:left;
+	}
+
+#apply_button_browse_jobs{
+	background-color:#6D009F;
+	color:#fff;
+	}
+	
+#contact_get_in_touch{
+	width:100%;
+	}
+	
+.required_field{
+	color:#DD0003;
+	margin-left:20px;
+	margin-right:20px;
+	clear:both;
+	}
+	
+.submit_button push_right {
+	float:left;
+	clear:both;
+	}
