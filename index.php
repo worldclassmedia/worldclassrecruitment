@@ -7,6 +7,6 @@
 
 <body>
 
-<?php echo "Hello World and mars no, that's not rifght.";?>
+<?php echo "Hello World and mars no, that's not right.";?>
 </body>
 </html>
